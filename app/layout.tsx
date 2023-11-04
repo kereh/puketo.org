@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body>
-        <div className="flex flex-col">
+        <div className="flex flex-col w-full">
           <NavbarWrapper />
           <div className="flex-1">{children}</div>
           <Footer />

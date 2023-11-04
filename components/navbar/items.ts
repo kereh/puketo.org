@@ -5,10 +5,10 @@ export const links: Array<{ text: string; url: string }> = [
   },
   {
     text: "Berita",
-    url: "/berita",
+    url: "/",
   },
   {
     text: "Tentang Kami",
-    url: "/tentang",
+    url: "/",
   },
 ];

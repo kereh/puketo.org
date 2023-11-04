@@ -28,7 +28,7 @@ export default function NavbarMobile({
       className="fixed top-0 left-0 h-screen w-full backdrop-blur flex justify-end"
     >
       <div className="h-screen w-2/3 border-l bg-background">
-        <div className="flex flex-col container py-1 gap-6">
+        <div className="flex flex-col py-1 px-6 lg:px-8 py-2 gap-6">
           <div className="flex items-center justify-between">
             <div className="relative h-14 w-14">
               <Image

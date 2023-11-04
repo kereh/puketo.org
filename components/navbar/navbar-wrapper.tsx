@@ -11,9 +11,9 @@ export default function NavbarWrapper() {
 
   return (
     <div className="w-full sticky border-b top-0 left-0 py-1 z-[100] bg-gradient-to-r from-background to-gray-100">
-      <div className="container flex items-center justify-between">
+      <div className="flex items-center justify-between px-6 lg:px-8">
         <div className="flex items-center gap-3">
-          <div className="relative w-14 h-14">
+          <div className="relative w-10 h-10">
             <Image
               src="/logo.png"
               alt="logo puketo"

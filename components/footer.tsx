@@ -2,11 +2,13 @@ import { SewingPinFilledIcon, EnvelopeClosedIcon } from "@radix-ui/react-icons";
 import Image from "next/image";
 
 export default function Footer() {
+  const tahun = new Date();
+
   return (
-    <footer className="bg-primary text-background container py-5">
-      <div className="flex flex-col gap-4 md:flex-row md:items-center justify-between">
+    <footer className="bg-primary text-background py-5 w-full">
+      <div className="flex flex-col gap-4 md:flex-row md:items-center justify-between px-6 lg:px-8">
         <div className="flex items-center gap-3">
-          <div className="relative w-20 h-20">
+          <div className="relative w-10 h-10">
             <Image
               src="/logo_2.png"
               alt="logo puketo"
@@ -33,9 +35,8 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className="w-full md:text-center mt-4">
-        Created by{" "}
-        <span className="underline underline-offset-4">Ronaldo Kereh</span>
+      <div className="w-full md:text-center mt-4 px-6 lg:px-8">
+        {`@${tahun.getFullYear()}`} Puketo. All right reserved.
       </div>
     </footer>
   );

@@ -11,7 +11,7 @@ export default function Hero() {
         loop
         playsInline
       ></video>
-      <div className="flex items-center relative h-[80vw] md:h-[70vw] container">
+      <div className="flex items-center relative h-[80vw] md:h-[70vw] px-6 lg:px-8">
         <div className="text-background">
           <h1 className="text-sm md:text-lg lg:text-xl font-semibold">
             Wongken Wo Werun
