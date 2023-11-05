@@ -49,7 +49,7 @@ export default function Puketo() {
             />
           </div>
           <div className="w-full md:max-w-xl lg:max-w-2xl">
-            <div className="space-y-2 md:text-right md:space-y-10">
+            <div className="space-y-2 md:text-left md:space-y-10">
               <p className="text-sm leading-relaxed">
                 <span className="font-semibold">
                   Pusat Kerajinan Tombulu (PUKETO)
