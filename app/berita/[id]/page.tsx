@@ -34,7 +34,7 @@ export default async function page({
   );
 }
 
-export async function getStaticParams() {
+export async function generateStaticParams() {
   const berita = await getAllPosts();
   return berita.map((b) => {
     id: b.id;
