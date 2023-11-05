@@ -6,8 +6,8 @@ export default function Hero() {
       <video
         className="absolute -z-20 h-full w-full object-cover md:object-fill"
         src="/assets/video.webm"
-        autoPlay={false}
-        // autoPlay
+        //autoPlay={false}
+        autoPlay
         loop
         playsInline
       ></video>
