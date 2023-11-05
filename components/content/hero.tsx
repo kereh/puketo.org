@@ -5,7 +5,7 @@ export default function Hero() {
       <div className="absolute h-full w-full bg-black/80" />
       <video
         className="absolute -z-20 h-full w-full object-cover md:object-fill"
-        src="/video.webm"
+        src="/assets/video.webm"
         autoPlay={false}
         // autoPlay
         loop

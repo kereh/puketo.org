@@ -7,7 +7,7 @@ export default function Puketo() {
         <div className="flex flex-col md:flex-row md:items-center gap-8">
           <div className="relative w-full h-[55vw] md:h-[30vw]">
             <Image
-              src="/images/apa-itu-puketo.jpg"
+              src="/assets/apa-itu-puketo.jpg"
               alt="Apa itu PUKETO"
               className="object-cover rounded-lg aspect-video"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -40,7 +40,7 @@ export default function Puketo() {
         <div className="flex flex-col md:flex-row-reverse md:items-center gap-8">
           <div className="relative w-full h-[90vw] md:h-[45vw] overflow-hidden">
             <Image
-              src="/images/apa-itu-puketo-2.jpg"
+              src="/assets/apa-itu-puketo-2.jpg"
               alt="Apa itu PUKETO"
               className="object-cover rounded-lg aspect-auto"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

@@ -32,7 +32,7 @@ export default function NavbarMobile({
           <div className="flex items-center justify-between">
             <div className="relative h-14 w-14">
               <Image
-                src="/logo.png"
+                src="/assets/logo.png"
                 alt="logo puketo"
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -51,7 +51,11 @@ export default function NavbarMobile({
           <Separator />
           <div className="flex flex-col items-center gap-4">
             {links.map((link, index) => (
-              <Link key={index} href={link.url}>
+              <Link
+                key={index}
+                href={link.url}
+                onClick={() => setIsOpen(!isOpen)}
+              >
                 <Button variant="link">{link.text}</Button>
               </Link>
             ))}

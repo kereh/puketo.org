@@ -4,7 +4,10 @@ import Footer from "@/components/footer";
 import "@/app/globals.css";
 
 export const metadata: Metadata = {
-  title: "PUKETO",
+  title: {
+    default: "PUKETO",
+    template: "PUKETO - %s",
+  },
   description: "Website Pusat Kerajinan Tombulu PUKETO",
   icons: {
     icon: "/favicon.ico",
