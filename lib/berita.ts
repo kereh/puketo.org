@@ -45,7 +45,7 @@ function getParser() {
 
 export async function getPostById(id: string) {
   const realId = id.replace(/\.md$/, "");
-  const fullPath = join("app/_berita", `${realId}.md`);
+  const fullPath = join("berita", `${realId}.md`);
   const { data, content } = matter(
     await fs.promises.readFile(fullPath, "utf8")
   );
@@ -68,7 +68,7 @@ export async function getPostById(id: string) {
 
 export async function getAllPosts() {
   const posts = await Promise.all(
-    fs.readdirSync("app/_berita").map((id) => getPostById(id))
+    fs.readdirSync("berita").map((id) => getPostById(id))
   );
   return posts.sort((post1, post2) => (post1.tanggal > post2.tanggal ? -1 : 1));
 }
