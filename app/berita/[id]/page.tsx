@@ -36,9 +36,9 @@ export default async function page({
 
 export async function generateStaticParams() {
   const berita = await getAllPosts();
-  return berita.map((b) => {
-    id: b.id;
-  });
+  return berita.map((b) => ({
+    id: b.id,
+  }));
 }
 
 export async function generateMetadata({
