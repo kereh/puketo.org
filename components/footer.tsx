@@ -21,7 +21,7 @@ export default function Footer() {
           </div>
           <div>
             <h1>PUKETO</h1>
-            <p>Pusat Kerajinan Tombulu</p>
+            <p>Pusat Kebudayaan Tombulu</p>
           </div>
         </div>
         <div className="w-full md:max-w-md flex flex-col gap-3">

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: "PUKETO",
     template: "PUKETO - %s",
   },
-  description: "Website Pusat Kerajinan Tombulu PUKETO",
+  description: "Website Pusat Kebudayaan Tombulu PUKETO",
   icons: {
     icon: "/favicon.ico",
   },

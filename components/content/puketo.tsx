@@ -20,7 +20,7 @@ export default function Puketo() {
             <div className="space-y-5 md:space-y-10">
               <p className="text-sm leading-relaxed">
                 <span className="font-semibold">
-                  Pusat Kerajinan Tombulu (PUKETO)
+                  Pusat Kebudayaan Tombulu (PUKETO)
                 </span>{" "}
                 adalah Organisasi Kebudayaan berbentuk Perkumpulan hasil dari
                 pokok-pokok pikiran pada kegiatan Seminar dan Lokakarya Sejarah
@@ -52,7 +52,7 @@ export default function Puketo() {
             <div className="space-y-2 md:text-left md:space-y-10">
               <p className="text-sm leading-relaxed">
                 <span className="font-semibold">
-                  Pusat Kerajinan Tombulu (PUKETO)
+                  Pusat Kebudayaan Tombulu (PUKETO)
                 </span>{" "}
                 bertujuan untuk menjadi wadah bagi para pegiat, pelaku,
                 pelestari dan masyarakat untuk memperjuangkan nilai-nilai
@@ -62,7 +62,7 @@ export default function Puketo() {
               <p className="text-sm leading-relaxed">
                 Sebagai Perkumpulan Independen,{" "}
                 <span className="font-semibold">
-                  Pusat Kerajinan Tombulu (PUKETO)
+                  Pusat Kebudayaan Tombulu (PUKETO)
                 </span>{" "}
                 melaksanakan berbagai kegiatan kebudayaan berbasis masyarakat
                 yang sejalan dengan visi misi yakni membentuk Lembaga Formal dan

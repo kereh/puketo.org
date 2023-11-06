@@ -46,7 +46,7 @@ export default function NavbarMobile({
             />
           </div>
           <p className="text-muted-foreground">
-            Website official Pusat Kerajinan Tombulu PUKETO
+            Website official Pusat Kebudayaan Tombulu PUKETO
           </p>
           <Separator />
           <div className="flex flex-col items-center gap-4">

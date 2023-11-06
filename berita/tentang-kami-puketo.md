@@ -1,15 +1,15 @@
 ---
 judul: Tentang Kami PUKETO
-deskripsi: Pusat Kerajinan Tombulu (PUKETO) adalah organisasi kebudayaan di Sulawesi Utara yang membangkitkan dan memperbaharui kembali akan kebudayaan di Tombulu.
+deskripsi: Pusat Kebudayaan Tombulu (PUKETO) adalah organisasi kebudayaan di Sulawesi Utara yang membangkitkan dan memperbaharui kembali akan kebudayaan di Tombulu.
 tanggal: 2023-10-29
 thumbnail: /berita/tentang-kami.jpg
 ---
 
-**Pusat Kerajinan Tombulu (PUKETO)** merupakan Perkumpulan Resmi berdasarkan SK Menhukam Nomor: **\_\_** Tahun 2023 berkedudukan di Kampung Budaya Woloan, Kecamatan Tomohon Barat, Kota Tomohon, Propinsi Sulawesi Utara.
+**Pusat Kebudayaan Tombulu (PUKETO)** merupakan Perkumpulan Resmi berdasarkan SK Menhukam Nomor: **\_\_** Tahun 2023 berkedudukan di Kampung Budaya Woloan, Kecamatan Tomohon Barat, Kota Tomohon, Propinsi Sulawesi Utara.
 
-Pusat Kerajinan Tombulu (PUKETO) adalah Organisasi Kebudayaan berbentuk Perkumpulan hasil dari pokok-pokok pikiran pada kegiatan Seminar dan Lokakarya Sejarah Woloan dan Toponomi Dalam Rangka Festival Seni dan Budaya Woloan, yang dilaksanakan pada Senin, 27 Mei 2019 di Amphitheatre Woloan.
+Pusat Kebudayaan Tombulu (PUKETO) adalah Organisasi Kebudayaan berbentuk Perkumpulan hasil dari pokok-pokok pikiran pada kegiatan Seminar dan Lokakarya Sejarah Woloan dan Toponomi Dalam Rangka Festival Seni dan Budaya Woloan, yang dilaksanakan pada Senin, 27 Mei 2019 di Amphitheatre Woloan.
 
-Slogan dari Perkumpulan Pusat Kerajinan Tombulu (PUKETO) dalam Bahasa Tombulu yaitu
+Slogan dari Perkumpulan Pusat Kebudayaan Tombulu (PUKETO) dalam Bahasa Tombulu yaitu
 
 > Wongken Wo Werun
 
@@ -17,9 +17,9 @@ yang berarti
 
 > membangkitkan dan memperbaharui kembali akan kebudayaan di Tombulu.
 
-Pusat Kerajinan Tombulu (PUKETO) bertujuan untuk menjadi wadah bagi para pegiat, pelaku, pelestari dan masyarakat untuk memperjuangkan nilai-nilai sejarah, seni, tradisi, budaya, dan kearifan Lokal Suku Minahasa terlebih khusus Sub Etnis Tombulu.
+Pusat Kebudayaan Tombulu (PUKETO) bertujuan untuk menjadi wadah bagi para pegiat, pelaku, pelestari dan masyarakat untuk memperjuangkan nilai-nilai sejarah, seni, tradisi, budaya, dan kearifan Lokal Suku Minahasa terlebih khusus Sub Etnis Tombulu.
 
-Sebagai Perkumpulan Independen, Pusat Kerajinan Tombulu (PUKETO) melaksanakan berbagai kegiatan kebudayaan berbasis masyarakat yang sejalan dengan visi misi yakni membentuk Lembaga Formal dan non Formal di Bidang Seni Budaya, Interaksi Budaya, Pendayagunaan Ruang Publik, Kegiatan Ekspresi Budaya, Dokumentasi Karya/Pengetahuan Maestro, Penciptaan Karya Kreatif Inovatif, Kajian Objek Pemajuan Kebudayaan dan Wadah Apresiasi kepada Pelaku, Pegiat dan Pelestari Seni Budaya.
+Sebagai Perkumpulan Independen, Pusat Kebudayaan Tombulu (PUKETO) melaksanakan berbagai kegiatan kebudayaan berbasis masyarakat yang sejalan dengan visi misi yakni membentuk Lembaga Formal dan non Formal di Bidang Seni Budaya, Interaksi Budaya, Pendayagunaan Ruang Publik, Kegiatan Ekspresi Budaya, Dokumentasi Karya/Pengetahuan Maestro, Penciptaan Karya Kreatif Inovatif, Kajian Objek Pemajuan Kebudayaan dan Wadah Apresiasi kepada Pelaku, Pegiat dan Pelestari Seni Budaya.
 
 #### Susunan Pengurus PUKETO
 
@@ -50,17 +50,17 @@ Anggota Pengurus
 5. Stevanus Mario Tamboto
 6. Seprimus Justio Deklos Tangon S.Pd
 
-Kantor Sekretariat PUSAKA Ne TOMBULU
+Kantor Sekretariat Pusat Kebudayaan Tombulu
 
 > Jln.Raya Woloan, Ling. VI, Kelurahan Woloan 1 Utara, Kec. Tomohon Barat, Kota Tomohon, Sulawesi Utara, Indonesia. Kode Pos 95423
 
 Hubungi Kami
 
-- Email : pusakanetombulu@gmail.com
+- Email : puketo@gmail.com
 - CP :
   - 089622108101 (Ruty)
   - 081248336870 (Armando)
-- Website : www.pusakanetombulu.org
-- Facebook : Pusaka Ne Tombulu
+- Website : www.puketo.org
+- Facebook : Pusat Kebudayaan Tombulu
 - Instagram : pusaka.ne.tombulu
-- Youtube : Pusaka Ne Tombulu
+- Youtube : Pusat Kebudayaan Tombulu
