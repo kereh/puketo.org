@@ -32,7 +32,7 @@ export default function Footer() {
           </p>
           <div className="text-base flex items-center gap-3">
             <EnvelopeClosedIcon className="w-4 h-4" />
-            pusakanetombulu@gmail.com
+            puketo@gmail.com
           </div>
         </div>
       </div>
